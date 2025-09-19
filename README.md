@@ -64,8 +64,7 @@ The goal of this project is to showcase:
 - **Apache Airflow & PySpark** for orchestration & processing.  
 - **GitHub Actions** for automation.
 
-## REF
-- https://growdataskills.com/
+
 
 
 
